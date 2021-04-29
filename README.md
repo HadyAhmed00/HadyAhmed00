@@ -15,6 +15,18 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />]()
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />]()
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />]()
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />]()
+[<img align="left" alt="HTML5" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />]()
+[<img align="left" alt="CSS3" width="26px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" />]()
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/android/android.png" />]()
+[<img align="left" alt="SQL" width="26px" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png" />]()
+[<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" />]()
+[<img align="left" alt="VSCode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />]()
+[<img align="left" alt="AndroidStudio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />]()
+
 
 <br />
 
@@ -24,7 +36,7 @@
 
 ---
 
-<details>
+<details>     
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="HadyAhmed00's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HadyAhmed00&show_icons=true&hide_border=true" />
