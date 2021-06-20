@@ -38,9 +38,10 @@
 
 <details>     
   <summary>:zap: GitHub Stats</summary>
-[(https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="HadyAhmed00's GitHub Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=HadyAhmed00=github-readme-stats" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadyAhmed00&show_icons=true&theme=gruvbox)
+
+
 
 </details>
 
