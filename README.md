@@ -1,7 +1,7 @@
 ### Hi there, I'm Hady Ahmed  👋
 
 
-## I'm Studying Computer Science at FCIS - ASU year 2. !!
+## I'm Studying Computer Science at FCIS - ASU year 3. !!
 
 ### Connect with me:
 
