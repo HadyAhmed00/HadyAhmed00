@@ -1,6 +1,7 @@
 ### Hi there, I'm Hady Ahmed  👋
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hadyahmed00&label=Profile%20views&color=0e75b6&style=flat" alt="hadyahmed00" /> </p>
 ## I'm Studying Computer Science at FCIS - ASU year 4. !!
 
 ### Connect with me:
@@ -36,14 +37,22 @@
 
 ---
 
-<details>     
-  <summary>:zap: GitHub Stats</summary>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HadyAhmed00&show_icons=true&theme=gruvbox)
+  
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-</details>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadyahmed00&show_icons=true&locale=en&layout=compact" alt="hadyahmed00" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadyahmed00&show_icons=true&locale=en" alt="hadyahmed00" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadyahmed00&" alt="hadyahmed00" /></p>
+
+
+
+
 
 [website]: https://hadyahmed00.github.io/my-personal-website/home.html
 [facebook]: https://www.facebook.com/hady.ahmed.58958
