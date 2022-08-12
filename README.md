@@ -44,8 +44,7 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadyahmed00&show_icons=true&locale=en&layout=compact" alt="hadyahmed00" /></p>
-<br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadyahmed00&show_icons=true&locale=en" alt="hadyahmed00" /></p>
 <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadyahmed00&" alt="hadyahmed00" /></p>
