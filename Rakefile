@@ -8,8 +8,8 @@ task :export, [:number] do |task, args|
     "personal site. Detailed history can be found at main repository.\n"\
     "\n"\
     "Version    : #{args[:number]}\n"\
-    "Deployment : https://YoussefRaafatNasry.github.io/#{version}\n"\
-    "Latest     : https://YoussefRaafatNasry.github.io/\n"\
+    "Deployment : https://HadyAhmed00.github.io/#{version}\n"\
+    "Latest     : https://HadyAhmed00.github.io/\n"\
     "```\n"
 
     puts "> Switched to #{version}"
