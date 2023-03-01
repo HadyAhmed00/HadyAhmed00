@@ -3,10 +3,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+debug.log
 
-# Ruby Gems
-.bundle
-Gemfile.lock
-
-# Log Files
-*.log
+# Adobe files
+*.ai
+*.psd
