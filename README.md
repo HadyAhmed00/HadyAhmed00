@@ -37,16 +37,10 @@
 
 
 ---
+## My GitHub Stats
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=HadyAhmed00&theme=graywhite&show_icons=true&hide=stars,issues" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadyAhmed00&layout=compact&theme=graywhite" /></p>
 
-  
-
-
-<h3 align="left">Some Info:</h3>
-<p align="left">
-</p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hadyahmed00&show_icons=true&locale=en" alt="hadyahmed00" /></p>
 <br>
 
 
@@ -54,7 +48,7 @@
 
 
 [website]: https://hadyahmed00.github.io/my-personal-website/home.html
-[facebook]: https://www.facebook.com/hady.ahmed.58958
+[Facebook]: https://www.facebook.com/hady.ahmed.58958
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://www.instagram.com/hadyahmed480/
 [linkedin]: https://www.linkedin.com/in/hady-ahmed-a41963191/
