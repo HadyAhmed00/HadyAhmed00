@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hadyahmed00&label=Profile%20views&color=0e75b6&style=flat" alt="hadyahmed00" /> </p>
 
-## I am a fresh graduate of computer science. !!
+## I am a graduate of computer science. !!
 ### Connect with me:
 
 
@@ -36,9 +36,6 @@
 
 
 ---
-## My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=HadyAhmed00&theme=graywhite&show_icons=true&hide=stars,issues" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HadyAhmed00&layout=compact&theme=graywhite" /></p>
 
 <br>
 
